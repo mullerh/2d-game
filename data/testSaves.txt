@@ -1,0 +1,2 @@
+Herman,50,20,100,Earth,Flower:3:2:Plant//,Branch:15:16:Water,0:1
+0:1,Shoe:10:25:Earth/10:15,Pillow:1:555:Water//

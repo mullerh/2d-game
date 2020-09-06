@@ -1,0 +1,2 @@
+Gregor,39,10,79,Fire,Fist:1:0:Normal/Stick:7:2:Plant/,PokieStick:10:2:Plant,0:1
+0:1,Stick:10:5:Plant/8:1,Flower:3:2:Plant//

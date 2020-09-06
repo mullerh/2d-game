@@ -1,0 +1,2 @@
+Herman,95,10,90,Normal,/,Fist:1:0:Normal,0:0
+/
